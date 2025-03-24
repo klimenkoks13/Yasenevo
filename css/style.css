@@ -336,7 +336,7 @@ nav {
 }
 
 .card1 {
-    background-image: url(./img/index/card1.svg);
+    background-image: url(img/index/card1.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -347,7 +347,7 @@ nav {
 }
 
 .card2 {
-    background-image: url(./img/index/card2.svg);
+    background-image: url(img/index/card2.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -358,7 +358,7 @@ nav {
 }
 
 .card3 {
-    background-image: url(./img/index/card3.svg);
+    background-image: url(img/index/card3.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -369,7 +369,7 @@ nav {
 }
 
 .card4 {
-    background-image: url(./img/index/card4.svg);
+    background-image: url(img/index/card4.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -383,7 +383,7 @@ nav {
 }
 
 .card5 {
-    background-image: url(./img/index/card5.svg);
+    background-image: url(img/index/card5.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -398,7 +398,7 @@ nav {
 }
 
 .card6 {
-    background-image: url(./img/index/card6.svg);
+    background-image: url(img/index/card6.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
