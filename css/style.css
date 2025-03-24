@@ -336,7 +336,7 @@ nav {
 }
 
 .card1 {
-    background-image: url(./img/index/gallary1.png);
+    background-image: url(./img/index/gallery1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -347,7 +347,7 @@ nav {
 }
 
 .card2 {
-    background-image: url(Yasenevo/img/index/gallery2.png);
+    background-image: url(../img/index/gallery2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -358,7 +358,7 @@ nav {
 }
 
 .card3 {
-    background-image: url(./img/index/gallary3.png);
+    background-image: url(./img/index/gallery3.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
