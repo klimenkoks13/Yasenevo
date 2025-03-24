@@ -336,7 +336,7 @@ nav {
 }
 
 .card1 {
-    background-image: url(./img/index/gallery1.png);
+    background-image: url(../img/index/gallery1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -358,7 +358,7 @@ nav {
 }
 
 .card3 {
-    background-image: url(./img/index/gallery3.png);
+    background-image: url(../img/index/gallery3.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -369,7 +369,7 @@ nav {
 }
 
 .card4 {
-    background-image: url(img/index/card4.svg);
+    background-image: url(../img/index/card4.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -383,7 +383,7 @@ nav {
 }
 
 .card5 {
-    background-image: url(./img/index/card5.svg);
+    background-image: url(../img/index/card5.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -398,7 +398,7 @@ nav {
 }
 
 .card6 {
-    background-image: url(./img/index/card6.svg);
+    background-image: url(../img/index/card6.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
